@@ -1,0 +1,2 @@
+# automated_gated_community_security
+ A Automated Gated Community Security System which detects intruders and alerting users.a dual-module system for real-time trespasser detection and customizable passcodes, remotely managed via a web interface hosted on an ESP32 server  there are 2 modules a gate module and a intruder detection module  -> load the code into the respective board ( upload the gate_module_ard_uno file in the Arduino Uno )  -> then connect the boards according to the given Schematic
