@@ -5,6 +5,8 @@
 #include<LiquidCrystal_I2C.h>
 #include <DHT11.h>
 
+
+// servo init
 Servo myservo;
 DHT11 dht11(A0);
 LiquidCrystal_I2C lcd(0x27,16,2);

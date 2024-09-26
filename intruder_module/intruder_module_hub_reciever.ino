@@ -50,7 +50,7 @@ void setup() {
   esp_now_register_recv_cb(OnDataRecv);
   delay(4000);
 }
- 
+ // loop
 void loop() {
 esp_now_register_recv_cb(OnDataRecv);
 delay(8000);

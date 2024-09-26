@@ -7,7 +7,7 @@ WiFiClient client;
 WiFiServer server(80);
 Servo MyServo;
 
-static const int servoPin = 18;             /*Connect the servo motor to GPIO18*/
+static const int servoPin = 18;             /*Connect the servo motor to GPIO18 */
 
 const char* ssid = "motorola edge 30_5525";  
 // const char* pass="12345678";       /*Enter Your SSID*//*Enter Your Password*/
